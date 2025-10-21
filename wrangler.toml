@@ -5,8 +5,6 @@ compatibility_date = "2025-09-07"
 keep_vars = true
 
 # ✅ 新增 KV 绑定
-"kv_namespaces": [{
-                    "binding": "KV",
-                    "id": "44d3818a2d9b48eb9a31669f3cb1a876"
-                 }]
-
+kv_namespaces = [
+  { binding = "KV", id = "44d3818a2d9b48eb9a31669f3cb1a876" }
+]
