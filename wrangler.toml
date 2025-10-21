@@ -6,6 +6,7 @@ keep_vars = true
 
 # ✅ 新增 KV 绑定
 "kv_namespaces": [{
-                    "binding": "KV_BINDING",
+                    "binding": "KV",
                     "id": "44d3818a2d9b48eb9a31669f3cb1a876"
                  }]
+
