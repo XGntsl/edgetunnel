@@ -4,7 +4,3 @@ main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-# 定义 KV 命名空间绑定（变量名 = 命名空间 ID）
-kv_namespaces = [
-  { binding = "KV", id = "44d3818a2d9b48eb9a31669f3cb1a876" }
-]
